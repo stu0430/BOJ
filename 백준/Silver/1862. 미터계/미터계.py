@@ -1,0 +1,1 @@
+print(int(''.join(str(i-(i>4))for i in map(int,input())),9))
