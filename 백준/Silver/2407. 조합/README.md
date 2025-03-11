@@ -1,4 +1,4 @@
-# [Silver IV] 조합 - 2407 
+# [Silver III] 조합 - 2407 
 
 [문제 링크](https://www.acmicpc.net/problem/2407) 
 
@@ -8,7 +8,11 @@
 
 ### 분류
 
-임의 정밀도 / 큰 수 연산(arbitrary_precision), 조합론(combinatorics), 수학(math)
+임의 정밀도 / 큰 수 연산, 조합론, 수학
+
+### 제출 일자
+
+2022년 7월 16일 21:42:47
 
 ### 문제 설명
 
