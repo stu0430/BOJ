@@ -1,0 +1,1 @@
+print(f'AKA{"RAKA" * int(input())}')
